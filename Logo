@@ -1,13 +1,26 @@
 
-
-echo " /$$   /$$           /$$             /$$                     /$$                                 /$$          ";
-echo "| $$  /$$/          |__/            | $$                    | $$                                | $$          ";
-echo "| $$ /$$/   /$$$$$$  /$$  /$$$$$$  /$$$$$$    /$$$$$$       | $$   /$$ /$$   /$$  /$$$$$$   /$$$$$$$ /$$   /$$";
-echo "| $$$$$/   /$$__  $$| $$ /$$__  $$|_  $$_/   /$$__  $$      | $$  /$$/| $$  | $$ /$$__  $$ /$$__  $$| $$  | $$";
-echo "| $$  $$  | $$  \__/| $$| $$  \ $$  | $$    | $$  \ $$      | $$$$$$/ | $$  | $$| $$  \__/| $$  | $$| $$  | $$";
-echo "| $$\  $$ | $$      | $$| $$  | $$  | $$ /$$| $$  | $$      | $$_  $$ | $$  | $$| $$      | $$  | $$| $$  | $$";
-echo "| $$ \  $$| $$      | $$| $$$$$$$/  |  $$$$/|  $$$$$$/      | $$ \  $$|  $$$$$$/| $$      |  $$$$$$$|  $$$$$$/";
-echo "|__/  \__/|__/      |__/| $$____/    \___/   \______/       |__/  \__/ \______/ |__/       \_______/ \______/ ";
-echo "                        | $$                                                                                  ";
-echo "                        | $$                                                                                  ";
-echo "                        |__/                                                                                  ";
+echo "                                                                                                                                                                                                             ";
+echo "                                                                                                                                                                                   dddddddd                  ";
+echo "KKKKKKKKK    KKKKKKK                     iiii                              tttt                                kkkkkkkk                                                            d::::::d                  ";
+echo "K:::::::K    K:::::K                    i::::i                          ttt:::t                                k::::::k                                                            d::::::d                  ";
+echo "K:::::::K    K:::::K                     iiii                           t:::::t                                k::::::k                                                            d::::::d                  ";
+echo "K:::::::K   K::::::K                                                    t:::::t                                k::::::k                                                            d:::::d                   ";
+echo "KK::::::K  K:::::KKKrrrrr   rrrrrrrrr  iiiiiiippppp   ppppppppp   ttttttt:::::ttttttt       ooooooooooo         k:::::k    kkkkkkkuuuuuu    uuuuuu rrrrr   rrrrrrrrr       ddddddddd:::::d uuuuuu    uuuuuu  ";
+echo "  K:::::K K:::::K   r::::rrr:::::::::r i:::::ip::::ppp:::::::::p  t:::::::::::::::::t     oo:::::::::::oo       k:::::k   k:::::k u::::u    u::::u r::::rrr:::::::::r    dd::::::::::::::d u::::u    u::::u  ";
+echo "  K::::::K:::::K    r:::::::::::::::::r i::::ip:::::::::::::::::p t:::::::::::::::::t    o:::::::::::::::o      k:::::k  k:::::k  u::::u    u::::u r:::::::::::::::::r  d::::::::::::::::d u::::u    u::::u  ";
+echo "  K:::::::::::K     rr::::::rrrrr::::::ri::::ipp::::::ppppp::::::ptttttt:::::::tttttt    o:::::ooooo:::::o      k:::::k k:::::k   u::::u    u::::u rr::::::rrrrr::::::rd:::::::ddddd:::::d u::::u    u::::u  ";
+echo "  K:::::::::::K      r:::::r     r:::::ri::::i p:::::p     p:::::p      t:::::t          o::::o     o::::o      k::::::k:::::k    u::::u    u::::u  r:::::r     r:::::rd::::::d    d:::::d u::::u    u::::u  ";
+echo "  K::::::K:::::K     r:::::r     rrrrrrri::::i p:::::p     p:::::p      t:::::t          o::::o     o::::o      k:::::::::::k     u::::u    u::::u  r:::::r     rrrrrrrd:::::d     d:::::d u::::u    u::::u  ";
+echo "  K:::::K K:::::K    r:::::r            i::::i p:::::p     p:::::p      t:::::t          o::::o     o::::o      k:::::::::::k     u::::u    u::::u  r:::::r            d:::::d     d:::::d u::::u    u::::u  ";
+echo "KK::::::K  K:::::KKK r:::::r            i::::i p:::::p    p::::::p      t:::::t    tttttto::::o     o::::o      k::::::k:::::k    u:::::uuuu:::::u  r:::::r            d:::::d     d:::::d u:::::uuuu:::::u  ";
+echo "K:::::::K   K::::::K r:::::r           i::::::ip:::::ppppp:::::::p      t::::::tttt:::::to:::::ooooo:::::o     k::::::k k:::::k   u:::::::::::::::uur:::::r            d::::::ddddd::::::ddu:::::::::::::::uu";
+echo "K:::::::K    K:::::K r:::::r           i::::::ip::::::::::::::::p       tt::::::::::::::to:::::::::::::::o     k::::::k  k:::::k   u:::::::::::::::ur:::::r             d:::::::::::::::::d u:::::::::::::::u";
+echo "K:::::::K    K:::::K r:::::r           i::::::ip::::::::::::::pp          tt:::::::::::tt oo:::::::::::oo      k::::::k   k:::::k   uu::::::::uu:::ur:::::r              d:::::::::ddd::::d  uu::::::::uu:::u";
+echo "KKKKKKKKK    KKKKKKK rrrrrrr           iiiiiiiip::::::pppppppp              ttttttttttt     ooooooooooo        kkkkkkkk    kkkkkkk    uuuuuuuu  uuuurrrrrrr               ddddddddd   ddddd    uuuuuuuu  uuuu";
+echo "                                               p:::::p                                                                                                                                                       ";
+echo "                                               p:::::p                                                                                                                                                       ";
+echo "                                              p:::::::p                                                                                                                                                      ";
+echo "                                              p:::::::p                                                                                                                                                      ";
+echo "                                              p:::::::p                                                                                                                                                      ";
+echo "                                              ppppppppp                                                                                                                                                      ";
+echo "                                                                                                                                                                                                             ";
