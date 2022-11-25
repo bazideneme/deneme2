@@ -1,1 +1,2 @@
 printLogo
+sleep 1
