@@ -1,2 +1,2 @@
-print Logo.sh
+printLogo.sh
 sleep 1
