@@ -1,3 +1,2 @@
-printLogo.sh
+printLogo
 
-sudo apt update
