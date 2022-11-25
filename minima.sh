@@ -2,4 +2,4 @@ sudo wget -O minima_remove.sh https://raw.githubusercontent.com/minima-global/Mi
 
 read -p "Incentive ıd girin: " INCENTIVE_ID 
 
-echo -e "Ivent id: ${CYAN}$INCENTIVE_ID${NC}"
+echo -e "Ivent id: $INCENTIVE_ID"
